@@ -1,0 +1,54 @@
+local-zone: "kerumal.com" redirect
+local-data: "kerumal.com A 127.0.0.1"
+local-zone: "webtrekk.net" redirect
+local-data: "webtrekk.net A 127.0.0.1"
+local-zone: "cbbp1.com" redirect
+local-data: "cbbp1.com A 127.0.0.1"
+local-zone: "venize.de" redirect
+local-data: "venize.de A 127.0.0.1"
+local-zone: "mydirtyhobby.de" redirect
+local-data: "mydirtyhobby.de A 127.0.0.1"
+local-zone: "watson.telemetry.microsoft.com" redirect
+local-data: "watson.telemetry.microsoft.com A 127.0.0.1"
+local-zone: "watson.telemetry.microsoft.com" redirect
+local-data: "watson.telemetry.microsoft.com AAAA ::1"
+local-zone: "trace.svc.ui.com" redirect
+local-data: "trace.svc.ui.com A 127.0.0.1"
+local-zone: "denewstoday.me" redirect
+local-data: "denewstoday.me A 127.0.0.1"
+local-zone: "takelnk.com" redirect
+local-data: "takelnk.com A 127.0.0.1"
+local-zone: "europe.tcllauncher.com" redirect
+local-data: "europe.tcllauncher.com A 127.0.0.1"
+local-zone: "s3.tcllauncher.com" redirect
+local-data: "s3.tcllauncher.com A 127.0.0.1"
+local-zone: "www.google.com.hk" redirect
+local-data: "www.google.com.hk A 127.0.0.1"
+local-zone: "www.baidu.com" redirect
+local-data: "www.baidu.com A 127.0.0.1"
+local-zone: "baidu.com" redirect
+local-data: "baidu.com A 127.0.0.1"
+local-zone: "eu.service.acs.huan.tv" redirect
+local-data: "eu.service.acs.huan.tv A 127.0.0.1"
+local-zone: "ai.tclking.com" redirect
+local-data: "ai.tclking.com A 127.0.0.1"
+local-zone: "eu-tvuser-tcl.cedock.com" redirect
+local-data: "eu-tvuser-tcl.cedock.com A 127.0.0.1"
+local-zone: "eu.api.upgrade.platform.huan.tv" redirect
+local-data: "eu.api.upgrade.platform.huan.tv A 127.0.0.1"
+local-zone: "big7.com" redirect
+local-data: "big7.com A 127.0.0.1"
+local-zone: "adskeeper.com" redirect
+local-data: "adskeeper.com A 127.0.0.1"
+local-zone: "chaturbate.com" redirect
+local-data: "chaturbate.com A 127.0.0.1"
+local-zone: "f1272serve.xyz" redirect
+local-data: "f1272serve.xyz A 127.0.0.1"
+local-zone: "justservingfiles.net" redirect
+local-data: "justservingfiles.net A 127.0.0.1"
+local-zone: "livejasmin.com" redirect
+local-data: "livejasmin.com A 127.0.0.1"
+local-zone: "amateurx.com" redirect
+local-data: "amateurx.com A 127.0.0.1"
+local-zone: "mydirtyhobby.de" redirect
+local-data: "mydirtyhobby.de A 127.0.0.1"

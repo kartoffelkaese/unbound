@@ -1,0 +1,7 @@
+local-zone: "nas.gcal.ch" redirect
+local-data: "nas.gcal.ch A 10.10.10.55"
+local-zone: "er.gcal.ch" redirect
+local-data: "er.gcal.ch AAAA fe80::1"
+local-data: "er.gcal.ch A 10.10.10.1"
+local-zone: "scanner.gcal.ch" redirect
+local-data: "scanner.gcal.ch A 10.10.10.232"
